@@ -5,3 +5,4 @@ spec:
   public_subnet_two_cidr: 10.0.64.0/18
   private_subnet_one_cidr: 10.0.128.0/18
   private_subnet_two_cidr: 10.0.192.0/18
+  foo: "bar"
